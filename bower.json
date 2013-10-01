@@ -7,11 +7,11 @@
     "name": "John Polacek",
     "url": "http://johnpolacek.com"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": ["js/jquery.superscrollorama.js"],
   "dependencies": {
     "jquery": "~1.9.1",
-    "greensock": "http://www.greensock.com/dl/greensock-v12-js.zip"
+    "tweenMax": "1.9.x"
   },
   "repository": {
     "type": "git",
